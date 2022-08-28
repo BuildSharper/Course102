@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildSharper.Course102.App1", "BuildSharper.Course102.App1\BuildSharper.Course102.App1.csproj", "{32894EE3-97D0-4A2E-B4C0-F42FBD30BEF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildSharper.Course102.App2", "BuildSharper.Course102.App2\BuildSharper.Course102.App2.csproj", "{515520CC-0128-493D-A076-48DF57014AD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32894EE3-97D0-4A2E-B4C0-F42FBD30BEF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32894EE3-97D0-4A2E-B4C0-F42FBD30BEF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32894EE3-97D0-4A2E-B4C0-F42FBD30BEF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32894EE3-97D0-4A2E-B4C0-F42FBD30BEF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{515520CC-0128-493D-A076-48DF57014AD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{515520CC-0128-493D-A076-48DF57014AD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{515520CC-0128-493D-A076-48DF57014AD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{515520CC-0128-493D-A076-48DF57014AD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE7E6185-67B0-495D-81B9-BE80A6DEFADA}
+	EndGlobalSection
+EndGlobal
